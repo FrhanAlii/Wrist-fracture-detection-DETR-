@@ -1,4 +1,4 @@
-#**🦴 Wrist Fracture Detection using DETR**#
+**🦴 Wrist Fracture Detection using DETR**
 
 
 **🚀 Project Overview**
